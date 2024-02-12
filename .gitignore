@@ -41,5 +41,3 @@ Thumbs.db
 # Optional artifacts
 coverage/
 *.log
-
-*.xlsx
